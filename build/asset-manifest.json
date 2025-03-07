@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spring-scavenger-hunt/static/css/main.a9da77b7.css",
+    "main.js": "/spring-scavenger-hunt/static/js/main.15e80e81.js",
+    "index.html": "/spring-scavenger-hunt/index.html",
+    "main.a9da77b7.css.map": "/spring-scavenger-hunt/static/css/main.a9da77b7.css.map",
+    "main.15e80e81.js.map": "/spring-scavenger-hunt/static/js/main.15e80e81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9da77b7.css",
+    "static/js/main.15e80e81.js"
+  ]
+}
